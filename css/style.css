@@ -1,0 +1,98 @@
+#menubar ul li a {
+    
+     line-height: 23.98px;
+     font-family: Fragment Mono;
+     font-weight: 400;
+}
+
+#harmonyheight {
+    font-family: Lora;
+    line-height: 36px;
+}
+#discover {
+    font-family: Open Sans;
+    line-height: 27.2px;
+}
+#footer h5{
+    font-family: Open Sans;
+    line-height: 19px;
+    font-weight: 600;
+    color: black;
+}
+#footer p{
+    font-family: Open Sans;
+    line-height: 29px;
+    font-weight: 300;
+    color: black;
+}
+#footer a{
+    font-family: Open Sans;
+    line-height: 29px;
+    font-weight: 300;
+    color: black;
+}
+
+/* Projects css */
+
+#projectTitle1{
+    font-family: Lora;
+    font-weight: 500;
+    line-height: 48px;
+}
+#projectPara1{
+    font-family: Source Sans;
+    line-height: 27px; 
+}
+#projectPara2 {
+    font-family: Source Sans;
+    size: 17px;
+    line-height: 27px; 
+}
+#storehead{
+    font-family: Lora;
+    font-weight: 500;
+    line-height: 60px;
+    font-size: 45px;
+}
+#card:hover{
+    border-color: brown;
+    color: rgb(255, 255, 255);
+    border: 2px;
+    box-shadow: 2px 2px  2px 2px rgb(64, 159, 247);
+    background-color: rgb(255, 120, 120);
+    
+}
+#teamhead{
+    font-family: Lora;
+    font-weight: 500;
+    line-height: 60px;
+    font-size: 45px;
+}
+#team:hover{
+    border-color: brown;
+    color: rgb(255, 255, 255);
+    border: 2px;
+    box-shadow: 2px 2px  2px 2px rgb(64, 159, 247);
+    background-color: rgb(223, 156, 94);
+    
+}
+
+#aboutpara1{
+    font-family: Source Sans;
+    line-height: 27px;
+}
+#careerTitle {
+    font-family: Lora;
+    line-height: 60px;
+    margin-top: 42px;
+    margin-bottom: 50px;
+   
+}
+#careerarchitect{
+    margin-top: 20px;
+}
+#required::after {
+    content: " *";
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
